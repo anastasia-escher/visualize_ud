@@ -1,24 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
+import Home from "./pages/Home";
+import Navigation from "./components/pageParts/Navigation";
+import { BrowserRouter as Router,  Route, Routes } from "react-router-dom";
+import Footer from "./components/pageParts/Footer";
+import * as React from "react";
+import VisualizePage1 from "./pages/VisualizePage1";
+import About from "./pages/About";
+import DataPreparation from "./pages/DataPreparation";
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+
+        <Router>
+            <Navigation />
+        <Routes>
+            <Route path='/' element={<Home />} exact/>
+            <Route path='visualize' element={<VisualizePage1 />} />
+            <Route path='about' element={<About/>} />
+            <Route path='data-preparation' element={<DataPreparation/>} />
+
+        </Routes>
+
+            <Footer />
+            </Router>
+
+    </>
   );
 }
 
