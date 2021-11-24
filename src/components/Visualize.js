@@ -16,7 +16,7 @@ const rowStyle = {
   justifyContent: "center",
 };
 const boxStyle = {
-  padding: "10px",
+  padding: "7px",
   border: "1px solid #ccc",
   borderRadius: "4px",
   fontSize: "12px",
@@ -40,10 +40,7 @@ export default function Visualize(props) {
 
     let rootData = props.rootData;
     let dataLayers = props.dataLayers;
-    let comment = props.comment;
     let number = props.index + 1;
-
-
 
 tokenStyle = {
   fontSize: "12px",
@@ -76,15 +73,19 @@ tokenStyle = {
        };
    }
 
+
+
    function makeChildElement(token, relations=[]) {
     return( <div>
 
     <ArcherElement id={token.numberInSent}
     relations={relations}
     >
-    <div style={boxStyle}> {token.numberInSent} - <span style={tokenStyle}>{token.token}</span>
-							<br /> {token.annot1}
-							<br /> {token.numberOfParent}:{token.ud}</div>
+    <div style={boxStyle}> {token.numberInSent} - <span style={tokenStyle}>{token.token}</span><br/>
+                             {token.annot1 !== '_' ? <>{token.annot1}</> : null}
+							 {token.annot2 !== '_' ? <><br/>{token.annot2}</> : null}
+                                {token.annot3 !== '_' ? <><br/>{token.annot3}</> : null}
+							<br/> {token.numberOfParent}:{token.ud}</div>
     </ArcherElement>
 
         </div>
@@ -111,11 +112,12 @@ tokenStyle = {
 
   return (
     <div  >
-      <br/>
         <Box sx={{ mx: "auto", width: 500 }}>
 
-            {number? <Typography variant="h5" paragraph={true}>Sentence {number}:</Typography>: null}
-            <Typography  paragraph={true}>{comment}</Typography>
+            {number? <Typography variant="h5" paragraph={true}>Sentence {number}:</Typography> : null}
+            {props.plain ? <Typography  paragraph={true}>Plain text: <i>{props.plain}</i></Typography> : null}
+            {props.comment ? <Typography  paragraph={true}>{props.comment}</Typography> : null}
+
 
         </Box>
       <ArcherContainer strokeColor={props.color}
@@ -131,9 +133,11 @@ tokenStyle = {
             id="root"
             relations={makeRootRelations(rootData.children)}
                       >
-            <div style={boxStyle}>{rootData.tokens[0].numberInSent} - <span style={tokenStyle}>{rootData.tokens[0].token}</span>
-									<br /> {rootData.tokens[0].annot1}
-									<br /> 0:{rootData.tokens[0].ud}</div>
+            <div style={boxStyle}>{rootData.tokens[0].numberInSent} - <span style={tokenStyle}>{rootData.tokens[0].token}</span><br/>
+									{rootData.tokens[0].annot1 !== '_' ? <>{rootData.tokens[0].annot1}</> : null}
+                                    {rootData.tokens[0].annot2 !== '_' ? <><br/>{rootData.tokens[0].annot2}<br/></> : null}
+                                    {rootData.tokens[0].annot3 !== '_' ? <>{rootData.tokens[0].annot3}</> : null}
+									<br/> 0:{rootData.tokens[0].ud}</div>
           </ArcherElement>
         </div>
         {dataLayers.map((layer, index) => (

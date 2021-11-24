@@ -15,14 +15,15 @@ export const data = (state = [], action) => {
             } else if (text.includes('#')) {
                  textList = text.split('\t\t\t\t\t\t\t\t\t\n')
             } else {
-                return state
+                textList = [text.trim()]
             }
 
             textList = textList.filter(text => text!== "")
             let dataNew = [];
             for (let sent of textList) {
                 let sentList = [];
-                let comment = '_'
+                let comment = '_';
+                let plain = '';
                 let tokensList = sent.split('\n')
                 if (tokensList[tokensList.length - 1].startsWith('#')) {
                     comment = tokensList[tokensList.length -1]
@@ -36,15 +37,18 @@ export const data = (state = [], action) => {
                         lemma: tokenSplit[2],
                         annot1: tokenSplit[3],
                         annot2: tokenSplit[4],
-                        annot3: tokensList[5],
+                        annot3: tokenSplit[5],
                         numberOfParent: tokenSplit[6],
                         ud: tokenSplit[7],
                         dep: tokenSplit[8],
                         trans: tokenSplit[9]}
                     sentList.push(tokenObj)
+                    plain += tokenObj.token;
+                    plain += ' ';
                 }
-                sentList.push(comment)
-                dataNew.push(sentList)
+                sentList.push(plain);
+                sentList.push(comment);
+                dataNew.push(sentList);
 
             }
 
@@ -63,3 +67,4 @@ const errorMSG = (state = '', action) => {
 
 
 }
+

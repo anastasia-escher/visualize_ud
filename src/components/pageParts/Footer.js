@@ -11,7 +11,7 @@ import * as React from "react";
 function Footer() {
 
   const handlePageChangeGit = () => {
-window.location.href="https://www.google.com"
+window.location.href="https://github.com/anastasia-escher/visualaze_ud"
 }
 const handlePageChangeLink = () => {
 window.location.href="https://ch.linkedin.com/in/anastasia-escher-282a35211"

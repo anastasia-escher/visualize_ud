@@ -24,12 +24,17 @@ export const getDataList = state => {
 
     let allData = [];
     for (const sent of state.data){
-        let sentence = {rootData:{tokens:[], children:[]}, dataLayers: [], comment:''}
+        let sentence = {rootData:{tokens:[], children:[]}, dataLayers: [], comment:'', plain:''}
         let relevantData = sent;
 
-        if (typeof sent[sent.length - 1] === "string") {
+        if (typeof sent[sent.length - 1] === "string" && sent[sent.length - 1].startsWith('#')) {
             sentence.comment = sent[sent.length - 1];
             relevantData = sent.slice(0, -1);
+        }
+
+        if (typeof relevantData[relevantData.length - 1] === "string") {
+            sentence.plain = relevantData[relevantData.length - 1]
+            relevantData = relevantData.slice(0, -1);
         }
 
 
@@ -49,10 +54,11 @@ export const getDataList = state => {
                 newLayer = getLayer(relevantData, prevLayer);
                 sentence.dataLayers.push(newLayer);
                 prevLayer = newLayer;
-                                }
+            }
 
         allData.push(sentence)
     }
+    console.log(JSON.stringify(allData))
 
     return allData;
 };
@@ -111,7 +117,6 @@ export const getStatistics = state => {
 export const getUDsAndLemmata = createSelector(
     getStatistics,
     (stats) => {
-        console.log(stats)
         let UDs = {}
         let lemmata = {}
         let UDsList = []
@@ -134,7 +139,6 @@ export const getUDsAndLemmata = createSelector(
                     }
             }
         }
-
 
 
         for (const [key, value] of Object.entries(UDs)) {

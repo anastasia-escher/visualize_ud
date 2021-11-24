@@ -50,7 +50,7 @@ function VisualizePage1({ data, onSubmitData, onreset}) {
         "5\tline\tline\tnoun\t_\t_\t2\tobj\t_\t_\n" +
         "6\tbetween\tbetween\tpreposition\t_\t_\t7\tcase\t_\t_\n" +
         "7\tthem\tthem\tpronoun\t_\t_\t2\tobl\t_\t_\n" +
-        "# a comment or a translation could be written here");
+        "# a comment or a translation could be written here\t\t\t\t\t\t\t\t\t\n");
 
 
 
@@ -246,13 +246,13 @@ function refreshPage(){
                 <Visualize rootData={item.rootData}
                            dataLayers={item.dataLayers}
                            comment={item.comment}
+                           plain={item.plain}
                             index={ind}
                            color={color}
                            width={strWidth}
                            line={lineStyle}
                            dash={dash}
                            endMarker={endPoint}
-
 
                 />
                     <Button
@@ -269,7 +269,7 @@ function refreshPage(){
 
       </>
   );
-};
+}
 
 const mapStateToProps = state => ({
     data: getDataList(state),

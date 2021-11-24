@@ -7,21 +7,21 @@ import {Button} from "@mui/material";
 import {useNavigate} from 'react-router-dom';
 import Visualize from "../components/Visualize";
 
-let rootData = {tokens: [{token: 'spodobil', annot1: 'Verb', ud: 'root', numberInSent: 3, numberOfParent: 0}],
-    children: [{token: 'vi', annot1: 'Pronomen', ud: 'obj', numberInSent: 1, numberOfParent: 3},
+let rootData = {tokens: [{token: 'spodobil', annot1: 'Verb', annot2: '_', annot3: '_', ud: 'root', numberInSent: 3, numberOfParent: 0}],
+    children: [{token: 'vi', annot1: 'Pronomen', annot2: '_', annot3: '_', ud: 'obj', numberInSent: 1, numberOfParent: 3},
     {token: 'Bog', annot1: 'Noun', ud: 'nsubj', numberInSent: 2, numberOfParent: 3},
         {token: 'crstvo', annot1: 'Noun', ud: 'obl', numberInSent: 5, numberOfParent: 3}
     ]};
 
-    let dataLayers = [{tokens: [{token: 'vi', annot1: 'Pronoun', ud: 'obj', numberInSent: 1, numberOfParent: 3},
-    {token: 'Bog', annot1: 'Noun', ud: 'nsubj', numberInSent: 2, numberOfParent: 3},
-        {token: 'crstvo', annot1: 'Noun', ud: 'obl', numberInSent: 5, numberOfParent: 3}],
-    children: [{token: 'vo', annot1: 'Preposition', ud: 'case', numberInSent: 4, numberOfParent: 5},
-    {token: 'svoe', annot1: 'Adjective', ud: 'amod', numberInSent: 6, numberOfParent: 5},
-        {token: 'nebesnoe', annot1: 'Adjective', ud: 'amod', numberInSent: 7, numberOfParent: 5}]
-    }, {tokens: [{token: 'vo', annot1: 'Preposition', ud: 'case', numberInSent: 4, numberOfParent: 5},
-    {token: 'svoe', annot1: 'Adjective', ud: 'amod', numberInSent: 6, numberOfParent: 5},
-        {token: 'nebesnoe', annot1: 'Adjective', ud: 'amod', numberInSent: 7, numberOfParent: 5}]}];
+    let dataLayers = [{tokens: [{token: 'vi', annot1: 'Pronoun', annot2: '_', annot3: '_', ud: 'obj', numberInSent: 1, numberOfParent: 3},
+    {token: 'Bog', annot1: 'Noun', annot2: '_', annot3: '_', ud: 'nsubj', numberInSent: 2, numberOfParent: 3},
+        {token: 'crstvo', annot1: 'Noun', annot2: '_', annot3: '_', ud: 'obl', numberInSent: 5, numberOfParent: 3}],
+    children: [{token: 'vo', annot1: 'Preposition', annot2: '_', annot3: '_', ud: 'case', numberInSent: 4, numberOfParent: 5},
+    {token: 'svoe', annot1: 'Adjective', annot2: '_', annot3: '_', ud: 'amod', numberInSent: 6, numberOfParent: 5},
+        {token: 'nebesnoe', annot1: 'Adjective', annot2: '_', annot3: '_', ud: 'amod', numberInSent: 7, numberOfParent: 5}]
+    }, {tokens: [{token: 'vo', annot1: 'Preposition', annot2: '_', annot3: '_', ud: 'case', numberInSent: 4, numberOfParent: 5},
+    {token: 'svoe', annot1: 'Adjective', annot2: '_', annot3: '_', ud: 'amod', numberInSent: 6, numberOfParent: 5},
+        {token: 'nebesnoe', annot1: 'Adjective', annot2: '_', annot3: '_', ud: 'amod', numberInSent: 7, numberOfParent: 5}]}];
 
 export default function Home() {
 
@@ -35,7 +35,7 @@ export default function Home() {
       <Typography variant="h3" component="h2" gutterBottom={true}>Visualize Universal Dependencies</Typography>
       <Typography variant="h5" color="textSecondary" paragraph={true}>
           This is a site for visualizing syntactic relations within sentences
-          using <a href='#' style={{textDecoration: 'none'}}>universal dependencies</a> annotation.
+          using <a href='https://universaldependencies.org/' style={{textDecoration: 'none'}} target='_blank'>universal dependencies</a> annotation.
 
       </Typography>
       <Box m={4} >
