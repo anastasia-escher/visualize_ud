@@ -1,7 +1,7 @@
 import Link from "@mui/material/Link";
 import Container from "@mui/material/Container";
 import {Typography} from "@mui/material";
-import Box from '@mui/material/Box';
+
 
 
 export default  function About() {

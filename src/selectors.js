@@ -58,7 +58,7 @@ export const getDataList = state => {
 
         allData.push(sentence)
     }
-    console.log(JSON.stringify(allData))
+
 
     return allData;
 };
@@ -69,12 +69,18 @@ export const getStatistics = state => {
         let relevantData = sent;
 
 
-        if (typeof sent[sent.length - 1] === "string") {
-            relevantData = sent.slice(0, -1);
+              if (typeof sent[sent.length - 1] === "string" && sent[sent.length - 1].startsWith('#')) {
 
-            }
+            relevantData = sent.slice(0, -1);
+        }
+
+        if (typeof relevantData[relevantData.length - 1] === "string") {
+            relevantData = relevantData.slice(0, -1);
+        }
+
 
         for (let word of relevantData){
+
             if (word.lemma in allStat){
                 if (word.ud in allStat[word.lemma]) {
                     allStat[word.lemma][word.ud] += 1;
@@ -109,7 +115,6 @@ export const getStatistics = state => {
     }
     return 0;
         });
-
 
     return statData;
 }

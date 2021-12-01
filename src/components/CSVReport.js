@@ -24,7 +24,6 @@ function CSVReport({stats, UDsAndLemmata}) {
 
     return(
          <Stack direction="column" spacing={2} justifyContent="center">
-
             <Box style={{display: "flex", flexDirection: 'column', justifyContent:"center", alignItems: "center"}}  justifyContent="center">
                    {UDsAndLemmata && UDsAndLemmata[1].length > 0 && (
               <Button type="button"

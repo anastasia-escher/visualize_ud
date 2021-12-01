@@ -1,9 +1,10 @@
 import Link from "@mui/material/Link";
 import Container from "@mui/material/Container";
-import {Typography} from "@mui/material";
-import Box from '@mui/material/Box';
+import {Button, Typography} from "@mui/material";
 import {TextareaAutosize} from "@mui/material";
 import * as React from "react";
+import{ Link as RouterLink} from "react-router-dom";
+
 
 
 export default  function DataPreparation() {
@@ -28,7 +29,7 @@ export default  function DataPreparation() {
                     You can use the same format that is required by the <Link style={{textDecoration: "none"}} href='https://arborator.ilpga.fr/q.cgi'>Arborator visualization tool.</Link><br/>
                     In general, the date you paste in the form should be copied from a .txt, .csv/.tsv or .xlsx file
                     with ten tab-separated columns.
-                    The columns correspond to the following variables:<br/>
+                    The columns correspond to the following variables:<br/></Typography>
 
                     <ol>
                         <li><b>Token-id (a number of the token in the sentence).</b></li>
@@ -43,13 +44,13 @@ export default  function DataPreparation() {
                         <li>Translation or any other annotation.</li>
                     </ol>
 
-                    The 4th, 5th and the 6th positions are meant for morphological annotation.
+                     <Typography variant="body1" gutterBottom>The 4th, 5th and the 6th positions are meant for morphological annotation.
                     You can either follow the official UD standard or come up with yor own annotation.
-                    In our example, representing early modern Bulgarian language
-                    (taken from the <Link style={{textDecoration: "none"}} href='https://punco.uzh.ch/'> corpus of Pop Punčov zbornik</Link>) the <Link style={{textDecoration: "none"}} href='https://punco.uzh.ch/'>
+                         In <RouterLink to="/files/conllu.txt" target="_blank" download  style={{textDecoration: 'none', color: '#BB4A4A',}}>this example</RouterLink>, representing early modern Bulgarian language
+                    (taken from the <Link style={{textDecoration: "none"}} href='https://punco.uzh.ch/'> corpus of Pop Punčov Sbornik</Link>) the <Link style={{textDecoration: "none"}} href='https://punco.uzh.ch/'>
                     MULTEXT-East annotation</Link> is used on the fourth position and the 5th and 6th ones are left empty.
                     <br/>
-                    <b>If you would like to leave any position (except for the key-ones) empty, please mark it the an underscore: _ .</b>
+                    <b> Positions 1, 2, 7, 8 (bold in the list above) should always be present, but Iif you would like to leave any other position empty, please mark it the an underscore: _ .</b>
                     Lines starting with the # character and <b>following</b> a sentence are considered as carrying comments, translation or metadata.<br/>
 
                 </Typography>
@@ -65,6 +66,29 @@ export default  function DataPreparation() {
                       placeholder={placeholder}
                     />
                        </div>
+
+                              <Button type="button"
+                        variant="text"
+                    sx={{
+                    color: '#BB4A4A',
+                    width: '20%',
+                    fontSize: "16px",
+                        mt: "20px"
+                    }}
+                >
+                                 <RouterLink to="/files/conllu.txt" target="_blank" download  style={{textDecoration: 'none', color: '#BB4A4A',}}>txt example</RouterLink>
+                              </Button>
+                <Button type="button"
+                        variant="text"
+                    sx={{
+                    color: '#BB4A4A',
+                    width: '20%',
+                    fontSize: "16px",
+                        mt: "20px"
+                    }}
+                >
+                                 <RouterLink to="/files/example.xlsx" target="_blank" download style={{textDecoration: 'none', color: '#BB4A4A',}}>XLSX example</RouterLink>
+                              </Button>
 
 
             </Container>

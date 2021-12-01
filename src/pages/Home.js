@@ -5,7 +5,8 @@ import Container from '@mui/material/Container';
 import {Typography} from "@mui/material";
 import {Button} from "@mui/material";
 import {useNavigate} from 'react-router-dom';
-import Visualize from "../components/Visualize";
+import pic from './pic.png';
+
 
 let rootData = {tokens: [{token: 'spodobil', annot1: 'Verb', annot2: '_', annot3: '_', ud: 'root', numberInSent: 3, numberOfParent: 0}],
     children: [{token: 'vi', annot1: 'Pronomen', annot2: '_', annot3: '_', ud: 'obj', numberInSent: 1, numberOfParent: 3},
@@ -46,10 +47,19 @@ export default function Home() {
         >Try It Out</Button>
       </Box>
     </Box>
-            <Visualize rootData={rootData} dataLayers={dataLayers} comment='' color="#BB4A4A" width="1"
-                           line='curve'
-                           dash=''/>
-      </Container>
+
+          <Box sx={{ mx: "auto", width: 500, height: 430 }} textAlign="center">
+
+            <img style={{ width: '300px', height: '360px', margin: "auto" }}
+            src={pic}
+                    />
+              </Box>
+            </Container>
+
     </>
   );
 }
+
+// <Visualize rootData={rootData} dataLayers={dataLayers} comment='' color="#BB4A4A" width="1"
+//                            line='curve'
+//                            dash=''/>

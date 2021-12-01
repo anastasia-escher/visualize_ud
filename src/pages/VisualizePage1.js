@@ -16,6 +16,7 @@ import Select from '@mui/material/Select';
 import FormControl from '@mui/material/FormControl';
 import FormHelperText from '@mui/material/FormHelperText';
 import CSVReport from "../components/CSVReport";
+import ChartWrapper from "../components/ChartWrapper";
 
 
 
@@ -232,11 +233,13 @@ function refreshPage(){
                         marginLeft: "70px"
       }}>RESET</Button>
 
+
      </Box>
                      </Stack>
                 </form>
       </Stack>
         <CSVReport/>
+         <ChartWrapper  />
         </Container>
 
           {errorMsg ? <Stack sx={{ mx: "auto", width: "40%" }}spacing={2}>
@@ -265,6 +268,11 @@ function refreshPage(){
 
                 </div>
           ))}
+
+
+        <Container maxWidth="md">
+        <ChartWrapper  />
+            < /Container>
 
 
       </>

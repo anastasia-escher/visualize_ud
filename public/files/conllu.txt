@@ -1,0 +1,1063 @@
+1	i	i	C	_	_	2	cc	2:cc	_	
+2	ima	imam	Vmip3si	_	_	0	root	0:root	_	
+3	.:.	.:.	X	_	_	2	punct	2:punct	_	
+4	mlogo	mnogo	R	_	_	5	amod	5:amod	_	
+5	reči	reč	Nfpnn	_	_	2	obj	2:obj	_	
+6	ne	ne	Qz	_	_	7	amod	7:amod	_	
+7	ispraveni	izpravja	Vmpa-pe	Afpnn	_	5	amod	5:amod	_	
+# and there are many words, which are not neat 										
+										
+1	mlogi	mnog	Afpnn	_	_	2	amod	2:amod	_	
+2	reči	reč	Nfpnn	_	_	3	obj	3:obj	_	
+3	ima	imam	Vmip3si	_	_	0	root	0:root	_	
+4	izbranii	izbera	Vmpa-pe	Afpny	_	2	acl	2:acl	_	
+5	za	za	Sg	_	_	8	case	8:case	_	
+6	sti	svęt	Ampnn	_	_	8	amod	8:amod	_	
+7	prpdbni	prepodoben	Ampnn	_	_	8	amod	8:amod	_	
+8	oc̃i	otec	Nmpny	_	_	4	obl	4:obl	_	
+9	i	i	C	_	_	10	cc	10:cc	_	
+10	angelomъ	angel	Nmpdy	_	_	8	conj	8:conj	_	
+11	i	i	C	_	_	12	cc	12:cc	_	
+12	arъxangelomъ	arxangel	Nmpdy	_	_	10	conj	10:conj	_	
+13	i	i	C	_	_	16	cc	16:cc	_	
+14	za	za	Sg	_	_	16	case	16:case	_	
+15	sveku	sveki	Afsan	_	_	16	amod	16:amod	_	
+16	potrebu	potrěba	Nfsan	_	_	12	conj	12:conj	_	
+17	na	na	Sl	_	_	19	case	19:case	_	
+18	sveki	sveki	Amsnn	_	_	19	amod	19:amod	_	
+19	praznikъ	praznik	Nmsnn	_	_	16	nmod	16:nmod	_	
+# There are many speeches, chosen for holy Reverend fathers and angels and archangels / and for every need on every holiday 										
+										
+1	poneže	poneže	C	_	_	11	advmod	11:advmod	_	
+2	i	i	C	_	_	4	cc	4:cc	_	
+3	ot	ot	Sg	_	_	4	case	4:case	_	
+4	bratię	brat	Nmpny	_	_	11	obl	11:obl	_	
+5	naši	naš	Ampnn	_	_	4	amod	4:amod	_	
+6	sštenici	svęštenik	Nmpny	_	_	4	appos	4:appos	_	
+7	ili	ili	C	_	_	8	cc	8:cc	_	
+8	monasi	monax	Nmpny	_	_	6	conj	6:conj	_	
+9	.:.	.:.	X	_	_	11	punct	11:punct	_	
+10	mlozina	mnozina	Nfsnn	_	_	11	obj	11:obj	_	
+11	ima	imam	Vmip3si	_	_	0	root	0:root	_	
+12	ne	ne	Qz	_	_	13	advmod	13:advmod	_	
+13	umejutъ	umeja	Vmip3pi	_	_	14	aux	14:aux	_	
+14	propovedati	propovědam	Vmn---e	_	_	10	acl	10:acl	_	
+15	tipografena	tipografen	Anpnn	_	_	16	amod	16:amod	_	
+16	slovesa	slovo	Nnpnn	_	_	14	obj	14:obj	_	
+# because among our brothers priests or monks / there are many of them, who cannot preach (using) written (printed?) homilies 										
+										
+1	zašto	zašto	C	_	_	3	advmod	3:advmod	_	
+2	su	sъm	Vmip3pi	_	_	3	cop	3:cop	_	
+3	glupavi	glupav	Ampnn	_	_	0	root	0:root	_	
+4	ljudie	ljudie	Nmpny	_	_	3	nsubj	3:nsubj	_	
+5	kato	kato	C	_	_	6	mark	6:mark	_	
+6	ovъci	ovca	Nfpny	_	_	3	acl	3:acl	_	
+7	kogi	koga	Pq	_	_	9	mark	9:mark	_	
+8	ne	ne	Qz	_	_	9	advmod	9:advmod	_	
+9	imat	imam	Vmip3pi	_	_	3	advcl	3:advcl	_	
+10	pastira	pastir	Nmsgy	_	_	9	obj	9:obj	_	
+# for people are as stupid as sheep when they do not have a shepherd 										
+										
+1	uvii	uvidja	Vmm-2se	_	_	0	root	0:root	_	
+2	koliko	kolko	Pq	_	_	3	mark	3:mark	_	
+3	pomoštъ	pomošt	Nfsnn	_	_	4	obj	4:obj	_	
+4	imatъ	imam	Vmip3si	_	_	1	advcl	1:advcl	_	
+5	toja	toja	Pd-msn	_	_	6	det	6:det	_	
+6	popъ	pop	Nmsny	_	_	4	nsubj	4:nsubj	_	
+7	ili	ili	C	_	_	8	cc	8:cc	_	
+8	gramatnikъ	gramatnik	Nmsny	_	_	6	conj	6:conj	_	
+9	koi	koi	Pq	_	_	6	mark	6:mark	_	
+10	go	toi	Pp3msa	_	_	11	discourse	11:discourse	_	
+11	izvesti	izvestja	Vmip3se	_	_	6	acl	6:acl	_	
+12	knigu	kniga	Nfsan	_	_	11	obj	11:obj	_	
+13	siju	sii	Pd-fsa	_	_	12	det	12:det	_	
+14	predъ	pred	Si	_	_	15	case	15:case	_	
+15	naradъ	narod	Nmsnn	_	_	11	obl	11:obl	_	
+# see, how much help does this priest or writer have, who reads this book in front of people 										
+										
+1	i	i	C	_	_	2	cc	2:cc	_	
+2	imeite	imam	Vmm-2pi	_	_	0	root	0:root	_	
+3	ju	tja	Pp3fsa	_	_	2	obj	2:obj	_	
+4	da	da	C	_	_	7	mark	7:mark	_	
+5	se	se	Px---a	_	_	7	expl	7:expl	_	
+6	ne	ne	Qz	_	_	7	advmod	7:advmod	_	
+7	pogubi	pogubja	Vmip3se	_	_	2	advcl	2:advcl	_	
+# and have it so that it does not get lost 										
+										
+1	ili	ili	C	_	_	4	cc	4:cc	_	
+2	ne	ne	Qz	_	_	3	advmod	3:advmod	_	
+3	su	sъm	Vaip3pi	_	_	4	aux	4:aux	_	
+4	imali	imam	Vmp--pi	_	_	0	root	0:root	_	
+5	blъgari	bъlgarin	Nmpny	_	_	4	nsubj	4:nsubj	_	
+6	crtvo	carstvo	Nnsnn	_	_	4	obj	4:obj	_	
+7	i	i	C	_	_	8	cc	8:cc	_	
+8	gdtvo	gospodstvo	Nnsnn	_	_	6	conj	6:conj	_	
+# Or have Bulgarians not had a kingdom and a state? 										
+										
+1	i	i	C	_	_	2	cc	2:cc	_	
+2	davali	davam	Vmp--pi	_	_	0	root	0:root	_	
+3	sa	sъm	Vaip3pi	_	_	2	aux	2:aux	_	
+4	imъ	tě	Pp3-pd	_	_	2	obl	2:obl	_	
+5	crve	car	Nmpny	_	_	2	nsubj	2:nsubj	_	
+6	i	i	C	_	_	7	cc	7:cc	_	
+7	kralove	kral	Nmpny	_	_	5	conj	5:conj	_	
+8	dъšteri	dъšterja	Nfpny	_	_	2	obj	2:obj	_	
+9	svoi	svoi	Afpnn	_	_	8	amod	8:amod	_	
+10	za	za	Sa	_	_	11	case	11:case	_	
+11	ženi	žena	Nfpny	_	_	2	obl	2:obl	_	
+12	vъ	v	Sa	_	_	13	case	13:case	_	
+13	supružestvo	sъpružestvo	Nnsnn	_	_	2	obl	2:obl	_	
+14	tъkmo	tъkmo	R	_	_	17	advmod	17:advmod	_	
+15	da	da	C	_	_	17	mark	17:mark	_	
+16	bixa	bъda	Vao-3pe	_	_	17	aux	17:aux	_	
+17	imali	imam	Vmp--pi	_	_	2	advcl	2:advcl	_	
+18	mirъ	mir	Nmsnn	_	_	17	obj	17:obj	_	
+19	sa	s	Si	_	_	20	case	20:case	_	
+20	cri	car	Nmpny	_	_	18	obl	18:obl	_	
+21	blъgarъskia	bъlgarski	Afpny	_	_	20	amod	20:amod	_	
+# and kings and emperors gave them their daughters for wives / only to have peace with the Bulgarian kings 										
+										
+1	prъvo	pъrvo	R	_	_	4	advmod	4:advmod	_	
+2	oni	oni	Pp3-pn	_	_	4	nsubj	4:nsubj	_	
+3	patriarъxa	patriarx	Nmsgy	_	_	4	obj	4:obj	_	
+4	imali	imam	Vmp--pi	_	_	0	root	0:root	_	
+# they were the first to have a patriarch 										
+										
+1	zato	zato	C	_	_	2	cc	2:cc	_	
+2	imejutъ	imam	Vmip3pi	_	_	0	root	0:root	_	
+3	bolъgari	bъlgarin	Nmpny	_	_	2	nsubj	2:nsubj	_	
+4	ot	ot	Sg	_	_	6	case	6:case	_	
+5	mnogo	mnogo	R	_	_	6	amod	6:amod	_	
+6	istorii	istorija	Nfpnn	_	_	2	obl	2:obl	_	
+7	svidetelъstvo	svidetelstvo	Nnsnn	_	_	2	obj	2:obj	_	
+8	vъ	v	Sl	_	_	9	case	9:case	_	
+9	slavu	slava	Nfsan	_	_	2	obl	2:obl	_	
+10	bžiju	božii	Afsay	_	_	9	amod	9:amod	_	
+# For this reason Bulgarians have testimony for God's glory in many chronicles 										
+										
+1	i	i	C	_	_	3	cc	3:cc	_	
+2	ne	ne	Qz	_	_	3	advmod	3:advmod	_	
+3	imatъ	imam	Vmip3pi	_	_	0	root	0:root	_	
+4	reči	reč	Nfpnn	_	_	3	obj	3:obj	_	
+5	lični	ličen	Afpnn	_	_	4	amod	4:amod	_	
+# and they do not have famous sayings 										
+										
+1	nъ	no	C	_	_	2	cc	2:cc	_	
+2	viždъ	vidja	Vmm-2si	_	_	0	root	0:root	_	
+3	ne	ne	Qz	_	_	4	amod	4:amod	_	
+4	razumne	razumen	Amsvn	_	_	2	vocative	2:vocative	_	
+5	ot	ot	Sg	_	_	6	case	6:case	_	
+6	grъci	grъk	Nmpny	_	_	9	obl	9:obl	_	
+7	po	po (2)	Qc	_	_	8	amod	8:amod	_	
+8	mnogo	mnogo	R	_	_	9	amod	9:amod	_	
+9	ima	imam	Vmip3si	_	_	2	advcl	2:advcl	_	
+10	blъgare	bъlgarin	Nmpny	_	_	9	obj	9:obj	_	
+11	mudri	mъdъr	Ampnn	_	_	10	amod	10:amod	_	
+12	i	i	C	_	_	13	cc	13:cc	_	
+13	slavni	slaven	Ampnn	_	_	11	conj	11:conj	_	
+# but look, you fool, there are more Bulgarians than Greeks, who are wise and glorious 										
+										
+1	a	a	C	_	_	6	cc	6:cc	_	
+2	mudri	mъdъr	Ampnn	_	_	3	amod	3:amod	_	
+3	grъci	grъk	Nmpny	_	_	6	nsubj	6:nsubj	_	
+4	to	to	Qd	_	_	6	obj	6:obj	_	
+5	ne	ne	Qz	_	_	6	advmod	6:advmod	_	
+6	imejutъ	imam	Vmip3pi	_	_	0	root	0:root	_	
+# while the wise Greeks not only do not have this 										
+										
+1	zašto	zašto	C	_	_	7	cc	7:cc	_	
+2	ne	ne	Qz	_	_	3	advmod	3:advmod	_	
+3	može	moga	Vaip3si	_	_	7	aux	7:aux	_	
+4	ju	tja	Pp3fsa	_	_	7	obj	7:obj	_	
+5	sveki	sveki	Amsny	_	_	6	amod	6:amod	_	
+6	člvekъ	člověk	Nmsny	_	_	6	nsubj	6:nsubj	_	
+7	imati	imam	Vmn---i	_	_	0	root	0:root	_	
+8	i	i	C	_	_	9	cc	9:cc	_	
+9	čitati	četa	Vmn---i	_	_	7	conj	7:conj	_	
+10	i	i	C	_	_	11	cc	11:cc	_	
+11	pomniti	pomnja	Vmn---i	_	_	9	conj	9:conj	_	
+# for not everyone can have or read or remember it 										
+										
+1	iovъ	Iov	Nmsny	_	_	2	nsubj	2:nsubj	_	
+2	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+3	sedmъ	sedem	Ml	_	_	4	nummod	4:nummod	_	
+4	sinove	sin	Nmpny	_	_	2	obj	2:obj	_	
+5	i	i	C	_	_	6	cc	6:cc	_	
+6	dъšterъki	dъšterka	Nfpny	_	_	4	conj	4:conj	_	
+7	tri	tri	Ml	_	_	6	nummod	6:nummod	_	
+# Job had seven sons and three daughters 										
+										
+1	i	i	C	_	_	3	cc	3:cc	_	
+2	ovъci	ovca	Nfpny	_	_	3	obj	3:obj	_	
+3	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+4	sedъmъ	sedem	Ml	_	_	5	nummod	5:nummod	_	
+5	xiljadi	xiljada	Ml	_	_	2	nummod	2:nummod	_	
+# he had seven thousand sheep 										
+										
+1	kamili	kamila	Nfpny	_	_	2	obj	2:obj	_	
+2	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+3	tri	tri	Ml	_	_	4	nummod	4:nummod	_	
+4	xiljadi	xiljada	Ml	_	_	1	nummod	1:nummod	_	
+# he had three thousand camels 										
+										
+1	volove	vol	Nmpny	_	_	2	obj	2:obj	_	
+2	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+3	dve	dva	Ml	_	_	4	nummod	4:nummod	_	
+4	xiljadi	xiljada	Ml	_	_	1	nummod	1:nummod	_	
+# he had two thousand oxen 										
+										
+1	i	i	C	_	_	2	amod	2:amod	_	
+2	ratae	ratai	Nmpny	_	_	3	obj	3:obj	_	
+3	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+4	mlogo	mnogo	R	_	_	2	amod	2:amod	_	
+# he had many farmhands too 										
+										
+1	a	a	C	_	_	6	cc	6:cc	_	
+2	koliko	kolko	Pq	_	_	3	amod	3:amod	_	
+3	srebro	srebro	Nnsnn	_	_	6	obj	6:obj	_	
+4	i	i	C	_	_	5	cc	5:cc	_	
+5	zlato	zlato	Nnsnn	_	_	3	conj	3:conj	_	
+6	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+7	iovъ	Iov	Nmsny	_	_	6	nsubj	6:nsubj	_	
+8	ne	ne	Qz	_	_	9	amod	9:amod	_	
+9	izъbroeno	izbroja	Ansnn	Vmpa-se	_	3	amod	3:amod	_	
+# and how much uncounted silver and gold Job had... 										
+										
+1	i	i	C	_	_	2	amod	2:amod	_	
+2	čirepъ	čirep	Nmsnn	_	_	4	obj	4:obj	_	
+3	ne	ne	Qz	_	_	4	advmod	4:advmod	_	
+4	maše	imam	Vmii3si	_	_	0	root	0:root	_	
+5	da	da	C	_	_	7	mark	7:mark	_	
+6	si	se	Px---d	_	_	7	expl	7:expl	_	
+7	ostruže	ostruža	Vmip3se	_	_	2	acl	2:acl	_	
+8	snaga	snaga	Nfsnn	_	_	7	obj	7:obj	_	
+9	ta	tъ	Pd-fsn	_	_	8	det	8:det	_	
+# he did not either have a splitter to scrape his body  										
+										
+1	i	i	C	_	_	2	amod	2:amod	_	
+2	xlebъ	xlěb	Nmsnn	_	_	4	obj	4:obj	_	
+3	ne	ne	Qz	_	_	4	advmod	4:advmod	_	
+4	maše	imam	Vmii3si	_	_	0	root	0:root	_	
+5	da	da	C	_	_	6	mark	6:mark	_	
+6	ede	jam	Vmip3si	_	_	2	acl	2:acl	_	
+7	ili	ili	C	_	_	8	cc	8:cc	_	
+8	krъčagъ	kъrčag	Nmsnn	_	_	2	conj	2:conj	_	
+9	vodu	voda	Nfsan	_	_	11	obj	11:obj	_	
+10	da	da	C	_	_	11	mark	11:mark	_	
+11	pie	pija	Vmip3si	_	_	8	acl	8:acl	_	
+# nor did he have bread to eat or a jug to drink water 										
+										
+1	ta	ta	C	_	_	3	cc	3:cc	_	
+2	mu	toi	Pp3msd	_	_	3	obl	3:obl	_	
+3	izъmori	izmorja	Vmia3se	_	_	0	root	0:root	_	
+4	sva	sve	Afsnn	_	_	6	amod	6:amod	_	
+5	ta	tъ	Pd-fsn	_	_	4	det	4:det	_	
+6	stoka	stoka	Nfsnn	_	_	3	obj	3:obj	_	
+7	što	što	Pq	_	_	8	mark	8:mark	_	
+8	imaše	imam	Vmii3si	_	_	6	acl	6:acl	_	
+9	bogati	bogat	Amsny	_	_	10	amod	10:amod	_	
+10	iovъ	Iov	Nmsny	_	_	8	csubj	8:csubj	_	
+# and killed all the stock that the wealthy Job had 										
+										
+1	čuete	čuja	Vmip3se	_	_	0	root	0:root	_	
+2	li	li	Qq	_	_	1	advmod	1:advmod	_	
+3	xrtiani	xristianin	Nmpny	_	_	1	vocative	1:vocative	_	
+4	koliko	kolko	Pq	_	_	5	amod	5:amod	_	
+5	ljubov	ljubov	Nfsnn	_	_	6	obj	6:obj	_	
+6	imaše	imam	Vmii3si	_	_	1	advcl	1:advcl	_	
+7	bogati	bogat	Amsny	_	_	8	amod	8:amod	_	
+8	iovъ	Iov	Nmsny	_	_	6	csubj	6:csubj	_	
+9	za	za	Sg	_	_	10	case	10:case	_	
+10	bga	bog	Nmsgy	_	_	6	obl	6:obl	_	
+# Do you, christians, hear how much love  for God the wealthy Job had? 										
+										
+1	niti	niti	C	_	_	7	cc	7:cc	_	
+2	ima	imam	Vmip3si	Vmia3si	_	0	root	0:root	_	
+3	pari	para	Nfpnn	_	_	2	obj	2:obj	_	
+4	da	da	C	_	_	6	mark	6:mark	_	
+5	si	se	Px---d	_	_	6	expl	6:expl	_	
+6	kupi	kupja	Vmip3se	_	_	3	acl	3:acl	_	
+7	vosokъ	vosъk	Nmsnn	_	_	6	obj	6:obj	_	
+# he did not have money to buy himself wax 										
+										
+1	niti	niti	C	_	_	6	cc	6:cc	_	
+2	ima	imam	Vmip3si	Vmia3si	_	0	root	0:root	_	
+3	da	da	C	_	_	5	mark	5:mark	_	
+4	si	se	Px---d	_	_	5	expl	5:expl	_	
+5	kupi	kupja	Vmip3se	_	_	2	advcl	2:advcl	_	
+6	ѳimjanъ	tamjan	Nmsnn	_	_	5	obj	5:obj	_	
+7	niti	niti	C	_	_	9	cc	9:cc	_	
+8	drugo	drug	Ansnn	_	_	9	amod	9:amod	_	
+9	što	što	Pq	_	_	6	conj	6:conj	_	
+# nor did he have (money) to buy himself incense / nor anything else 										
+										
+1	če	če	C	_	_	3	cc	3:cc	_	
+2	ne	ne	Qz	_	_	3	advmod	3:advmod	_	
+3	ma	imam	Vmip3si	_	_	0	root	0:root	_	
+4	i	i	C	_	_	5	amod	5:amod	_	
+5	togiva	togiva	Pr	_	_	3	advmod	3:advmod	_	
+6	za	za	Sa	_	_	7	case	7:case	_	
+7	što	što	Pq	_	_	10	obl	10:obl	_	
+8	da	da	C	_	_	10	mark	10:mark	_	
+9	si	se	Px---d	_	_	10	expl	10:expl	_	
+10	kupimo	kupja	Vmip1pe	_	_	3	advcl	3:advcl	_	
+# because then there will be nothing to buy for, too 										
+										
+1	i	i	C	_	_	5	cc	5:cc	_	
+2	va	v	Sl	_	_	4	case	4:case	_	
+3	toi	toja	Pd-nsn	_	_	4	det	4:det	_	
+4	vreme	vreme	Nnsnn	_	_	5	obl	5:obl	_	
+5	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+6	edinъ	edin	Amsnn	_	_	7	amod	7:amod	_	
+7	člvekъ	človek	Nmsny	_	_	5	obj	5:obj	_	
+8	rabotnikъ	rabotnik	Nmsny	_	_	7	appos	7:appos	_	
+# And at this time there was a man, a worker 										
+										
+1	Avramъ	Avraam	Nmsny	_	_	8	nsubj	8:nsubj	_	
+2	gostoljubni	gostoljuben	Amsny	_	_	1	amod	1:amod	_	
+3	deto	deto	Pr	_	_	5	mark	5:mark	_	
+4	go	toi	Pp3msa	_	_	1	expl	1:expl	_	
+5	čueme	čuja	Vmip1pe	_	_	1	acl	1:acl	_	
+6	na	na	Sl	_	_	7	case	7:case	_	
+7	pisanie	pisanie	Nnsnn	_	_	5	obl	5:obl	_	
+8	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+9	onъ	on	Pp3msn	_	_	1	expl	1:expl	_	
+10	stopanicu	stopanica	Nfsay	_	_	8	obj	8:obj	_	
+# The hospitable Abraham, who we hear about in this writing, had a wife 										
+										
+1	ta	ta	C	_	_	4	cc	4:cc	_	
+2	pa	pa	C	_	_	1	fixed	1:fixed	_	
+3	ne	ne	Qz	_	_	4	advmod	4:advmod	_	
+4	maju	imam	Vmip3pi	_	_	0	root	0:root	_	
+5	nikakvo	nikakъv	Ansnn	_	_	6	amod	6:amod	_	
+6	čedo	čedo	Nnsny	_	_	4	obj	4:obj	_	
+7	ot	ot	Sg	_	_	8	case	8:case	_	
+8	srdce	sъrdce	Nnsnn	_	_	6	nmod	6:nmod	_	
+# and they did not have any child from the heart ? 										
+										
+1	pa	pa	C	_	_	2	cc	2:cc	_	
+2	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+3	ednu	edin	Afsan	_	_	4	det	4:det	_	
+4	robinju	robinja	Nfsay	_	_	2	obj	2:obj	_	
+# but he had a slave 										
+										
+1	zašto	zašto	C	_	_	3	cc	3:cc	_	
+2	ne	ne	Qz	_	_	3	advmod	3:advmod	_	
+3	ma	imam	Vmip3si	_	_	0	root	0:root	_	
+4	deca	dete	Nnpny	_	_	3	obj	3:obj	_	
+# because she has no children 										
+										
+1	i	i	C	_	_	3	cc	3:cc	_	
+2	ne	ne	Qz	_	_	3	advmod	3:advmod	_	
+3	ma	imam	Vmia3si	Vmip3si	_	0	root	0:root	_	
+4	što	što	Pq	_	_	3	obj	3:obj	_	
+5	da	da	C	_	_	6	mark	6:mark	_	
+6	učini	učinja	Vmip3se	_	_	4	acl	4:acl	_	
+7	avramъ	Avraam	Nmsny	_	_	3	nsubj	3:nsubj	_	
+# And Abraham had nothing left to do 										
+										
+1	zašto	zašto	C	_	_	2	cc	2:cc	_	
+2	razume	razumeja	Vmia3se	_	_	0	root	0:root	_	
+3	bgъ	bog	Nmsny	_	_	2	nsubj	2:nsubj	_	
+4	če	če	C	_	_	5	mark	5:mark	_	
+5	imašъ	imam	Vmip2si	_	_	2	advcl	2:advcl	_	
+6	mlogo	mlogo	R	_	_	7	amod	7:amod	_	
+7	mĩlosъ	milost	Nfsnn	_	_	5	obj	5:obj	_	
+8	kamto	kъmto	Sd	_	_	9	case	9:case	_	
+9	bga	bog	Nmsgy	_	_	7	nmod	7:nmod	_	
+# For God recognized that you have love for God 										
+										
+1	ta	ta	C	_	_	2	cc	2:cc	_	
+2	utъkmi	utъkmja	Vmia3se	_	_	0	root	0:root	_	
+3	da	da	C	_	_	4	mark	4:mark	_	
+4	ima	imam	Vmip3si	_	_	2	advcl	2:advcl	_	
+5	u	u	Sg	_	_	8	case	8:case	_	
+6	negovo	negov	Ansnn	_	_	8	amod	8:amod	_	
+7	to	tъ	Pd-nsn	_	_	6	det	6:det	_	
+8	crtvo	carstvo	Nnsnn	_	_	2	obl	2:obl	_	
+9	*rk*	120	Mc	_	_	10	nummod	10:nummod	_	
+10	gospodare	gospodar	Nmpny	_	_	4	obj	4:obj	_	
+# and he decided to have 120 magistrates in his empire 										
+										
+1	če	če	C	_	_	4	cc	4:cc	_	
+2	mu	toi	Pp3msd	_	_	4	obl	4:obl	_	
+3	se	se	Px---a	_	_	4	expl	4:expl	_	
+4	čineše	činja	Vmii3si	_	_	0	root	0:root	_	
+5	če	če	C	_	_	6	mark	6:mark	_	
+6	e	sъm	Vmip3si	_	_	4	advcl	4:advcl	_	
+7	taka	taka	Pr	_	_	6	advmod	6:advmod	_	
+8	dobre	dobre	R	_	_	6	advmod	6:advmod	_	
+9	da	da	C	_	_	10	mark	10:mark	_	
+10	ima	imam	Vmip3si	_	_	6	advcl	6:advcl	_	
+11	mlogo	mlogo	R	_	_	12	amod	12:amod	_	
+12	zapčii	zapčija	Nfpny	_	_	10	obj	10:obj	_	
+13	pod	pod	Si	_	_	15	case	15:case	_	
+14	negova	negov	Afsnn	_	_	15	amod	15:amod	_	
+15	ruka	rъka	Nfsnn	_	_	10	obl	10:obl	_	
+# for he found it good to have many tax collectors under his hand 										
+										
+1	a	a	C	_	_	4	cc	4:cc	_	
+2	prrokъ	prorok	Nmsny	_	_	4	nsubj	4:nsubj	_	
+3	danilъ	Daniil	Nmsny	_	_	2	appos	2:appos	_	
+4	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+5	zakonъ	zakon	Nmsnn	_	_	4	obj	4:obj	_	
+6	tri	tri	Ml	_	_	7	nummod	7:nummod	_	
+7	puti	pъt	Nmpnn	_	_	8	advmod	8:advmod	_	
+8	dneska	dneska	R	_	_	11	advmod	11:advmod	_	
+9	da	da	C	_	_	11	mark	11:mark	_	
+10	se	se	Px---a	_	_	11	expl	11:expl	_	
+11	poklanja	poklanjam	Vmip3si	_	_	4	advcl	4:advcl	_	
+12	bgu	bog	Nmsdy	_	_	11	obl	11:obl	_	
+# but prophet Daniel had a custom to kneel before God thrice a day 										
+										
+1	i	i	C	_	_	6	cc	6:cc	_	
+2	kato	kato	C	_	_	4	mark	4:mark	_	
+3	si	se	Px---d	_	_	4	expl	4:expl	_	
+4	imaše	imam	Vmii3si	_	_	6	advcl	6:advcl	_	
+5	zakonъ	zakon	Nmsnn	_	_	4	obj	4:obj	_	
+6	pade	padna	Vmia3se	_	_	0	root	0:root	_	
+7	na	na	Sa	_	_	8	case	8:case	_	
+8	kolena	kolěno	Nnpnn	_	_	6	obl	6:obl	_	
+9	u	u	Sa	_	_	11	case	11:case	_	
+10	onja	onja	Pd-msn	_	_	11	det	11:det	_	
+11	denъ	den	Nmsnn	_	_	6	obl	6:obl	_	
+# and, having the custom, he fell to his knees on that day 										
+										
+1	i	i	C	_	_	5	cc	5:cc	_	
+2	crъ	car	Nmsny	_	_	5	nsubj	5:nsubj	_	
+3	veče	veče	R	_	_	5	advmod	5:advmod	_	
+4	ne	ne	Qz	_	_	5	advmod	5:advmod	_	
+5	ma	imam	Vmia3si	_	_	0	root	0:root	_	
+6	što	što	Pq	_	_	8	obj	8:obj	_	
+7	da	da	C	_	_	8	mark	8:mark	_	
+8	učini	učinja	Vmip3se	_	_	5	advcl	5:advcl	_	
+# and the king could not do anything else 										
+										
+1	crъ	car	Nmsny	_	_	6	nsubj	6:nsubj	_	
+2	kiro	Kir	Nmsoy	_	_	1	appos	1:appos	_	
+3	za	za	Sa	_	_	5	case	5:case	_	
+4	velika	velik	Afsnn	_	_	5	amod	5:amod	_	
+5	počtъ	počest	Nfsnn	_	_	6	obl	6:obl	_	
+6	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+7	prroka	prorok	Nmsgy	_	_	6	obj	6:obj	_	
+8	danila	Daniil	Nmsgy	_	_	7	appos	7:appos	_	
+# king Cyrus had a great respect for prophet Daniel 										
+										
+1	a	a	C	_	_	3	cc	3:cc	_	
+2	vavilonjane	vavilonjanin	Nmpny	_	_	3	nsubj	3:nsubj	_	
+3	imaxu	imam	Vmii3pi	_	_	0	root	0:root	_	
+4	ednogo	edin	Amsgy	_	_	5	amod	5:amod	_	
+5	idola	idol	Nmsgy	_	_	3	obj	3:obj	_	
+6	golemogo	golěm	Amsgy	_	_	5	amod	5:amod	_	
+# and the Babylonians had  										
+										
+1	a	a	C	_	_	3	cc	3:cc	_	
+2	oni	oni	Pp3-pn	_	_	3	nsubj	3:nsubj	_	
+3	imali	imam	Vmp--pi	Ampnn	_	0	root	0:root	_	
+4	sokrovište	sъkrovište	Nnsnn	_	_	3	obj	3:obj	_	
+5	podъ	pod	Si	_	_	6	case	6:case	_	
+6	zemlju	zemlja	Nfsan	_	_	3	obl	3:obl	_	
+7	deto	deto	Pr	_	_	8	mark	8:mark	_	
+8	beše	sъm	Vmii3si	_	_	6	acl	6:acl	_	
+9	trъpeza	trapeza	Nfsnn	_	_	8	csubj	8:csubj	_	
+10	ta	tъ	Pd-fsn	_	_	9	det	9:det	_	
+11	vilu	Vil	Nmsdy	_	_	10	nmod	10:nmod	_	
+12	bgu	bog	Nmsdy	_	_	11	appos	11:appos	_	
+# but they had a secret cellar beneath the earth / (on the place) where stood the god Bel's table 										
+										
+1	i	i	C	_	_	5	cc	5:cc	_	
+2	podъ	pod	Si	_	_	3	case	3:case	_	
+3	trъpeza	trapeza	Nfsnn	_	_	5	obl	5:obl	_	
+4	ta	tъ	Pd-fsn	_	_	3	det	3:det	_	
+5	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+6	dupka	dupka	Nfsnn	_	_	5	obj	5:obj	_	
+# and beneath the table was a hole 										
+										
+1	i	i	C	_	_	3	cc	3:cc	_	
+2	ne	ne	Qz	_	_	3	advmod	3:advmod	_	
+3	ma	imam	Vmip3si	_	_	0	root	0:root	_	
+4	lъža	lъža	Nfsnn	_	_	3	obj	3:obj	_	
+5	na	na	Sl	_	_	6	case	6:case	_	
+6	tebe	ti	Pp2-sg	_	_	3	obl	3:obl	_	
+7	nikakva	nikakъv	Afsnn	_	_	4	amod	4:amod	_	
+# and there is no falsity on you 										
+										
+1	i	i	C	_	_	2	cc	2:cc	_	
+2	poznai	poznaja	Vmm-2se	_	_	0	root	0:root	_	
+3	čii	čii	Ampnn	_	_	5	mark	5:mark	_	
+4	stupni	stepen	Nmpnn	_	_	5	csubj	5:csubj	_	
+5	ima	imam	Vmip3si	_	_	2	advcl	2:advcl	_	
+6	u	u	Sg	_	_	7	case	7:case	_	
+7	kapište	kapište	Nnsnn	_	_	5	obl	5:obl	_	
+# and find out, whose steps are there in the temple 										
+										
+1	i	i	C	_	_	5	cc	5:cc	_	
+2	va	v	Sl	_	_	4	case	4:case	_	
+3	onova	onova	Pd-nsn	_	_	4	det	4:det	_	
+4	vreme	vreme	Nnsnn	_	_	5	obl	5:obl	_	
+5	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+6	edinъ	edin	Amsnn	_	_	7	amod	7:amod	_	
+7	člvekъ	človek	Nmsny	_	_	5	obj	5:obj	_	
+# and in that time there was one man 										
+										
+1	i	i	C	_	_	3	cc	3:cc	_	
+2	ne	ne	Qz	_	_	3	advmod	3:advmod	_	
+3	ima	imam	Vmip3si	_	_	0	root	0:root	_	
+4	po	po (2)	Qc	_	_	5	amod	5:amod	_	
+5	veliki	velik	Amsny	_	_	6	amod	6:amod	_	
+6	bgъ	bog	Nmsny	_	_	3	obj	3:obj	_	
+7	ot	ot	Sg	_	_	8	case	8:case	_	
+8	nego	toi	Pp3msg	_	_	6	nmod	6:nmod	_	
+# and there is no greater god than him 										
+										
+1	i	i	C	_	_	6	cc	6:cc	_	
+2	ošte	ošte	R	_	_	6	advmod	6:advmod	_	
+3	malъko	malko	R	_	_	6	obj	6:obj	_	
+4	ima	imam	Vmip3si	_	_	6	aux	6:aux	_	
+5	da	da	C	_	_	4	fixed	4:fixed	_	
+6	skažeme	skaža	Vmip1se	_	_	0	root	0:root	_	
+7	xrtane	xristianin	Nmpny	_	_	6	vocative	6:vocative	_	
+# and we have to tell you a little bit more 										
+										
+1	imaše	imam	Vmii3se	_	_	0	root	0:root	_	
+2	edno	edin	Ansnn	_	_	3	amod	3:amod	_	
+3	vreme	vreme	Nnsnn	_	_	1	obl	1:obl	_	
+4	edinъ	edin	Ansnn	_	_	4	amod	4:amod	_	
+5	člvekъ	človek	Nmsny	_	_	1	obj	1:obj	_	
+6	bgatъ	bogat	Amsnn	_	_	5	amod	5:amod	_	
+# There was once a rich man 										
+										
+1	sproti	sproti	S	_	_	3	case	3:case	_	
+2	sti	svęt	Ampnn	_	_	3	amod	3:amod	_	
+3	gori	gora	Nfpnn	_	_	9	obl	9:obl	_	
+4	anъѳonъskie	atonski	Ampnn	_	_	3	amod	3:amod	_	
+5	daleko	daleko	R	_	_	9	advmod	9:advmod	_	
+6	do	do	Sg	_	_	8	case	8:case	_	
+7	*ѯ*	60	Mc	_	_	8	nummod	8:nummod	_	
+8	poglede	pogled	Nmpnn	_	_	9	obl	9:obl	_	
+9	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+10	edinъ	edin	Amsnn	_	_	11	amod	11:amod	_	
+11	ostrovъ	ostrov	Nmsnn	_	_	9	obj	9:obj	_	
+# facing the Holy mountain Athos, 60 shots away, there was an island 										
+										
+1	i	i	C	_	_	5	cc	5:cc	_	
+2	u	u	l	_	_	4	case	4:case	_	
+3	toja	toja	Pd-msn	_	_	4	det	4:det	_	
+4	ostrov	ostrov	Nmsnn	_	_	5	obl	5:obl	_	
+5	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+6	edinъ	edin	Amsnn	_	_	7	amod	7:amod	_	
+7	metovъ	metox	Nmsnn	_	_	5	obj	5:obj	_	
+8	manastirski	manastirski	Amsny	_	_	7	amod	7:amod	_	
+# And on this island, there was a monastery ground (fief) 										
+										
+1	i	i	C	_	_	6	cc	6:cc	_	
+2	tamu	tam	R	_	_	6	advmod	6:advmod	_	
+3	pri	pri	Sg	_	_	5	case	5:case	_	
+4	onja	onja	Pd-msn	_	_	5	det	5:det	_	
+5	metovъ	metox	Nmsnn	_	_	6	obl	6:obl	_	
+6	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+7	edinъ	edin	Amsnn	_	_	8	amod	8:amod	_	
+8	stlъpъ	stъlp	Nmsnn	_	_	6	obj	6:obj	_	
+9	ot	ot	Sg	_	_	10	case	10:case	_	
+10	kamik	kamъk	Nmsnn	_	_	8	nmod	8:nmod	_	
+11	napravenъ	napravja	Amsnn	Vmpa-se	_	8	acl	8:acl	_	
+12	ot	ot	Sg	_	_	15	case	15:case	_	
+13	prъvi	pъrvi	Am	_	_	15	amod	15:amod	_	
+14	te	tъ	Pd-mpn	_	_	13	det	13:det	_	
+15	vremena	vreme	Nnpnn	_	_	11	obl	11:obl	_	
+# And there, close to this monastery ground, there was one stone pillar made in the first times 										
+										
+1	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+2	na	na	Sl	_	_	4	case	4:case	_	
+3	toja	toja	Pd-msn	_	_	4	det	4:det	_	
+4	metovъ	metox	Nmsnn	_	_	1	obl	1:obl	_	
+5	edinъ	edin	Amsnn	_	_	7	amod	7:amod	_	
+6	mlad	mlad	Amsnn	_	_	7	amod	7:amod	_	
+7	momъkъ	momъk	Nmsny	_	_	1	obj	1:obj	_	
+# And in this convent, there was one young boy 										
+										
+1	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+2	dve	dva	Ml	_	_	3	nummod	3:nummod	_	
+3	reki	reka	Nfpnn	_	_	1	obj	1:obj	_	
+4	brъzi	bъrz	Afpnn	_	_	3	amod	3:amod	_	
+# there were two rivers 										
+										
+1	i	i	C	_	_	2	cc	2:cc	_	
+2	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+3	voda	voda	Nfsnn	_	_	2	obj	2:obj	_	
+4	pri	pri	Sl	_	_	6	case	6:case	_	
+5	onja	onja	Pd-msn	_	_	6	det	6:det	_	
+6	manastirъ	manastir	Nmsnn	_	_	2	obl	2:obl	_	
+# and there was water next to the monastery 										
+										
+1	če	če	C	_	_	3	cc	3:cc	_	
+2	tamo	tam	R	_	_	3	advmod	3:advmod	_	
+3	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+4	blizu	blizo	R	_	_	3	advmod	3:advmod	_	
+5	edna	edin	Afsnn	_	_	6	amod	6:amod	_	
+6	voda	voda	Nfsnn	_	_	3	obj	3:obj	_	
+7	zoveše	zova	Vmii3si	_	_	6	acl	6:acl	_	
+8	se	se	Px---a	_	_	7	expl	7:expl	_	
+9	xrisa	Xrisa	Nfsnn	_	_	7	obl	7:obl	_	
+# as there was a water nearby, called Chrysa 										
+										
+1	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+2	tamo	tam	R	_	_	1	advmod	1:advmod	_	
+3	drugi	drug	Afpnn	_	_	5	amod	5:amod	_	
+4	*v*	2	Mc	_	_	5	nummod	5:nummod	_	
+5	reki	reka	Afpnn	_	_	1	obj	1:obj	_	
+# there were other 2 rivers 										
+										
+1	togiva	togiva	Pr	_	_	4	advmod	4:advmod	_	
+2	šte	šta	Vaip3si	_	_	4	aux	4:aux	_	
+3	da	da	C	_	_	2	fixed	2:fixed	_	
+4	bude	bъda	Vmip3se	_	_	0	root	0:root	_	
+5	samrъt	smъrt	Nfsnn	_	_	4	nsubj	4:nsubj	_	
+6	na	na	Sa	_	_	8	case	8:case	_	
+7	vasako	vsěki	Ansnn	_	_	8	amod	8:amod	_	
+8	dixanie	dixanie	Nnsnn	_	_	4	obl	4:obl	_	
+9	štoto	štoto	Pr	_	_	12	mark	12:mark	_	
+10	e	sъm	Vaip3si	_	_	11	aux	11:aux	_	
+11	bilo	sъm	Vmp--si	_	_	12	cop	12:cop	_	
+12	živo	živ	Ansnn	_	_	8	acl	8:acl	_	
+13	i	i	C	_	_	15	cc	15:cc	_	
+14	na	na	Sa	_	_	15	case	15:case	_	
+15	ljudi	ljudie	Nmpny	_	_	8	conj	8:conj	_	
+16	i	i	C	_	_	18	cc	18:cc	_	
+17	na	na	Sa	_	_	18	case	18:case	_	
+18	dobitъkъ	dobitъk	Nmsny	_	_	15	conj	15:conj	_	
+19	i	i	C	_	_	21	cc	21:cc	_	
+20	na	na	Sa	_	_	21	case	21:case	_	
+21	sve	sve	Nnsnn	_	_	18	conj	18:conj	_	
+22	što	što	Pq	_	_	23	mark	23:mark	_	
+23	ima	imam	Vmip3si	_	_	21	acl	21:acl	_	
+24	na	na	Sl	_	_	26	case	26:case	_	
+25	toja	toja	Pd-msn	_	_	26	det	26:det	_	
+26	stъ	svět	Nmsnn	_	_	23	obl	23:obl	_	
+# then death will come ("be") to all breath(ing animanls), which had lived: / to humans, cattle and all in this world 										
+										
+1	kakvoto	kakъvto	Pr	_	_	5	cc	5:cc	_	
+2	veče	veče	R	_	_	5	advmod	5:advmod	_	
+3	da	da	C	_	_	5	aux	5:aux	_	
+4	ne	ne	Qz	_	_	5	advmod	5:advmod	_	
+5	ma	imam	Vmip3si	_	_	0	root	0:root	_	
+6	anъtixrisъ	Antixrist	Nmsny	_	_	5	nsubj	5:nsubj	_	
+7	vlastъ	vlast	Nfsnn	_	_	5	obj	5:obj	_	
+8	da	da	C	_	_	9	mark	9:mark	_	
+9	vlastuva	vlastvam	Vmip3si	_	_	5	advcl	5:advcl	_	
+# so that the Antichrist does not have the power to rule any more 										
+										
+1	ta	ta	C	_	_	7	cc	7:cc	_	
+2	pa	pa	C	_	_	1	fixed	1:fixed	_	
+3	togiva	togiva	Pr	_	_	7	advmod	7:advmod	_	
+4	šte	šta	Vaip3si	_	_	7	aux	7:aux	_	
+5	gdъ	Gospod	Nmsny	_	_	7	nsubj	7:nsubj	_	
+6	da	da	C	_	_	4	fixed	4:fixed	_	
+7	satvori	sъtvorja	Vmip3se	_	_	0	root	0:root	_	
+8	drugi	drug	Amsny	_	_	9	amod	9:amod	_	
+9	stъ	svět	Nmsnn	_	_	7	obj	7:obj	_	
+10	deto	deto	Pr	_	_	14	mark	14:mark	_	
+11	ne	ne	Qz	_	_	12	advmod	12:advmod	_	
+12	šte	šta	Vaip3si	_	_	14	aux	14:aux	_	
+13	da	da	C	_	_	12	fixed	12:fixed	_	
+14	ima	imam	Vmip3si	_	_	15	aux	15:aux	_	
+15	dovrъša	dovъrša	Vmn---e	_	_	9	acl	9:acl	_	
+# and then God will create another world / that will have no end 										
+										
+1	i	i	C	_	_	6	cc	6:cc	_	
+2	ne	ne	Qz	_	_	3	advmod	3:advmod	_	
+3	šte	šta	Vaip3si	_	_	6	aux	6:aux	_	
+4	tamo	tam	R	_	_	6	advmod	6:advmod	_	
+5	da	da	C	_	_	3	fixed	3:fixed	_	
+6	ima	imam	Vmip3si	_	_	0	root	0:root	_	
+7	samrъtъ	smъrt	Nfsnn	_	_	6	obj	6:obj	_	
+# and there will be no death 										
+										
+1	̉i	i	C	_	_	6	cc	6:cc	_	
+2	ne	ne	Qz	_	_	3	advmod	3:advmod	_	
+3	šte	šta	Vaip3si	_	_	6	aux	6:aux	_	
+4	tamo	tam	R	_	_	6	advmod	6:advmod	_	
+5	da	da	C	_	_	3	fixed	3:fixed	_	
+6	ima	imam	Vmip3si	_	_	0	root	0:root	_	
+7	griža	griža	Nfsnn	_	_	6	obj	6:obj	_	
+# and there will be no worry 										
+										
+1	u	u	Sg	_	_	2	case	2:case	_	
+2	mene	az	Pp1-sg	_	_	4	obl	4:obl	_	
+3	ne	ne	Qz	_	_	4	advmod	4:advmod	_	
+4	ma	imam	Vmip3si	_	_	0	root	0:root	_	
+5	lukavština	lukavština	Nfsnn	_	_	4	obj	4:obj	_	
+# There is no cunning in me 										
+										
+1	u	u	Sg	_	_	2	case	2:case	_	
+2	mene	az	Pp1-sg	_	_	4	obl	4:obl	_	
+3	ne	ne	Qz	_	_	4	advmod	4:advmod	_	
+4	ma	imam	Vmip3si	_	_	0	root	0:root	_	
+5	lъža	lъža	Nfsnn	_	_	4	obj	4:obj	_	
+6	i	i	C	_	_	7	cc	7:cc	_	
+7	lošinja	lošinja	Nfsnn	_	_	5	conj	5:conj	_	
+# There is no lie and wickedness in me 										
+										
+1	togiva	togiva	Pr	_	_	2	advmod	2:advmod	_	
+2	vide	vidja	Vmia3se	_	_	0	root	0:root	_	
+3	antixrisъ	Antixrist	Nmsny	_	_	2	nsubj	2:nsubj	_	
+4	zašto	zašto	C	_	_	6	mark	6:mark	_	
+5	ne	ne	Qz	_	_	6	advmod	6:advmod	_	
+6	ma	imam	Vmip3si	_	_	2	root	2:root	_	
+7	lъža	lъža	Nfsnn	_	_	6	obj	6:obj	_	
+8	u	u	Sg	_	_	9	case	9:case	_	
+9	arxgela	Arxangel	Nmsgy	_	_	6	obl	6:obl	_	
+# Then the Antichrist saw why there was no lie in the Archangel 										
+										
+1	ta	ta	C	_	_	3	cc	3:cc	_	
+2	me	az	Pp1-sa	_	_	3	obj	3:obj	_	
+3	izbavi	izbavja	Vmm-2se	Vmia3se	_	0	root	0:root	_	
+4	da	da	C	_	_	5	mark	5:mark	_	
+5	imašъ	imam	Vmip2si	_	_	3	advcl	3:advcl	_	
+6	pofala	pofala	Nfsnn	_	_	5	obj	5:obj	_	
+7	o	ot	Sg	_	_	10	case	10:case	_	
+8	tvoi	tvoi	Ampny	_	_	10	amod	10:amod	_	
+9	te	tъ	Pd-mpn	_	_	8	det	8:det	_	
+10	anggli	angel	Nmpny	_	_	5	obl	5:obl	_	
+# and save me so You have praise from Your angels 										
+										
+1	nikogo	nikoi	Pz---g	_	_	4	obj	4:obj	_	
+2	saga	sega	R	_	_	4	advmod	4:advmod	_	
+3	ne	ne	Qz	_	_	4	advmod	4:advmod	_	
+4	mamъ	imam	Vmip1si	_	_	0	root	0:root	_	
+5	na	na	Sa	_	_	6	case	6:case	_	
+6	pomošt	pomošt	Nfsnn	_	_	4	obl	4:obl	_	
+# Now I have no one to help me 										
+										
+1	duma	duma	Nfsnn	_	_	2	obj	2:obj	_	
+2	imamъ	imam	Vmip1si	_	_	0	root	0:root	_	
+3	da	da	C	_	_	5	cc	5:cc	_	
+4	ti	ti	Pp2-sd	_	_	5	obl	5:obl	_	
+5	dumamъ	dumam	Vmip1si	_	_	2	advcl	2:advcl	_	
+6	i	i 	C	_	_	11	cc	11:cc	_	
+7	va	v	Sl	_	_	8	case	8:case	_	
+8	istinu	istina	Nfsan	_	_	11	obl	11:obl	_	
+9	da	da	C	_	_	11	cc	11:cc	_	
+10	ti	ti	Pp2-sd	_	_	11	obl	11:obl	_	
+11	kažemъ	kaža	Vmip1se	_	_	5	conj	5:conj	_	
+12	čudna	čuden	Afsnn	_	_	13	amod	13:amod	_	
+13	rabota	rabota	Nfsnn	_	_	11	obj	11:obj	_	
+# I have a word to tell you, truly a miraculous thing 										
+										
+1	i	i	C	_	_	3	cc	3:cc	_	
+2	koga	koga	C	_	_	3	mark	3:mark	_	
+3	vleznu	vlězna	Vmia3se	_	_	12	advcl	12:advcl	_	
+4	loginъ	Login	Nmsny	_	_	3	nsubj	3:nsubj	_	
+5	posle	posle	R	_	_	12	advmod	12:advmod	_	
+6	u	u	Sl	_	_	7	case	7:case	_	
+7	polati	polata	Nfpnn	_	_	12	obl	12:obl	_	
+8	crvi	carev	Afpnn	_	_	7	amod	7:amod	_	
+9	togiva	togiva	Pr	_	_	12	advmod	12:advmod	_	
+10	veče	veče	R	_	_	12	advmod	12:advmod	_	
+11	ne	ne	Qz	_	_	12	advmod	12:advmod	_	
+12	ma	imam	Vmip3si	_	_	0	root	0:root	_	
+13	ni	ni	Qz	_	_	14	amod	14:amod	_	
+14	trus	trus	Nmsnn	_	_	12	obj	12:obj	_	
+15	ni	ni	Qz	_	_	16	cc	16:cc	_	
+16	strax	strax	Nmsnn	_	_	14	conj	14:conj	_	
+# and when Longinus went out, there were no quakes nor fright in the palace of the king 										
+										
+1	i	i	C	_	_	5	cc	5:cc	_	
+2	u	u	Sl	_	_	4	case	4:case	_	
+3	tova	tova	Pd-nsn	_	_	4	det	4:det	_	
+4	vreme	vreme	Nnsnn	_	_	5	obl	5:obl	_	
+5	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+6	crъ	car	Nmsny	_	_	5	nsubj	5:nsubj	_	
+7	živinica	živenica	Nfsnn	_	_	5	obj	5:obj	_	
+8	na	na	Sl	_	_	9	case	9:case	_	
+9	nosъ	nos	Nmsnn	_	_	5	obl	5:obl	_	
+10	zla	zъl	Afsnn	_	_	7	amod	7:amod	_	
+# And in that time, the king had scrofula on his nose 										
+										
+1	i	i	C	_	_	3	cc	3:cc	_	
+2	tamo	tam	R	_	_	3	advmod	3:advmod	_	
+3	imaše	imam	Vmii3se	_	_	0	root	0:root	_	
+4	peštera	peštera	Nfsnn	_	_	3	obj	3:obj	_	
+# and there was a cave 										
+										
+1	jako	jako	R	_	_	2	amod	2:amod	_	
+2	svetlo	světъl	Ansnn	_	_	3	amod	3:amod	_	
+3	lice	lice	Nnsnn	_	_	4	obj	4:obj	_	
+4	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+5	na	na	Sl	_	_	6	case	6:case	_	
+6	nego	toi	Pp3msg	_	_	4	obl	4:obl	_	
+7	i	i	C	_	_	10	cc	10:cc	_	
+8	jako	jako	R	_	_	9	amod	9:amod	_	
+9	svetliva	světliv	Afsnn	_	_	10	amod	10:amod	_	
+10	premena	preměna	Nfsnn	_	_	3	conj	3:conj	_	
+# there was a very shiny face and very shiny clothes on him 										
+										
+1	a	a	C	_	_	5	cc	5:cc	_	
+2	crъ	car	Nmsny	_	_	5	nsubj	5:nsubj	_	
+3	irodъ	Irod	Nmsny	_	_	2	appos	2:appos	_	
+4	četvertovolenъ	četvertovolen	Amsnn	_	_	3	appos	3:appos	_	
+5	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+6	brata	brat	Nmsgy	_	_	5	obj	5:obj	_	
+7	filipa	Filip	Nmsgy	_	_	6	appos	6:appos	_	
+# but king Herod, the Tetrarch, had a brother Philipp 										
+										
+1	i	i	C	_	_	7	cc	7:cc	_	
+2	u	u	Sl	_	_	4	case	4:case	_	
+3	negovъ	negov	Amsnn	_	_	4	amod	4:amod	_	
+4	dvorъ	dvor	Nmsnn	_	_	7	obl	7:obl	_	
+5	da	da	C	_	_	7	aux	7:aux	_	
+6	ne	ne	Qz	_	_	7	advmod	7:advmod	_	
+7	ma	imam	Vmip3si	_	_	0	root	0:root	_	
+8	ništo	ništo	Pz	_	_	9	amod	9:amod	_	
+9	živo	živ	Ansnn	_	_	7	obj	7:obj	_	
+# may their court be deserted, devoid of anything alive 										
+										
+1	veče	veče	R	_	_	3	advmod	3:advmod	_	
+2	ne	ne	Qz	_	_	3	advmod	3:advmod	_	
+3	ma	imam	Vmia3si	_	_	0	root	0:root	_	
+4	kade	kъde	Pq	_	_	6	mark	6:mark	_	
+5	da	da	C	_	_	6	aux	6:aux	_	
+6	idemъ	ida	Vmip1si	_	_	3	advcl	3:advcl	_	
+# I had no place to go anymore 										
+										
+1	a	a	C	_	_	4	cc	4:cc	_	
+2	žena	žena	Nfsny	_	_	4	nsubj	4:nsubj	_	
+3	nekoja	někoi	Afsny	_	_	2	amod	2:amod	_	
+4	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+5	bolna	bolen	Afsnn	_	_	2	amod	2:amod	_	
+6	*vi*	12	Mc	_	_	7	nummod	7:nummod	_	
+7	godinъ	godina	Nfpgn	_	_	5	nmod	5:nmod	_	
+# and there was a woman, ill for 12 years 										
+										
+1	ako	ako	C	_	_	2	mark	2:mark	_	
+2	doide	doida	Vmip3se	_	_	8	advcl	8:advcl	_	
+3	onъ	on	Pp3msn	_	_	2	csubj	2:csubj	_	
+4	tuka	tuka	R	_	_	2	advmod	2:advmod	_	
+5	ta	ta	C	_	_	8	cc	8:cc	_	
+6	šte	šta	Vaip3si	_	_	8	aux	8:aux	_	
+7	da	da	C	_	_	6	fixed	6:fixed	_	
+8	izvadi	izvadja	Vmip3se	_	_	0	root	0:root	_	
+9	svi	sve	A-pnn	_	_	11	amod	11:amod	_	
+10	te	tъ	Pd-mpn	_	_	9	det	9:det	_	
+11	luge	luge	Nmpny	_	_	8	obj	8:obj	_	
+12	deto	deto	Pr	_	_	14	mark	14:mark	_	
+13	gi	tě	Pp3-pa	_	_	14	obj	14:obj	_	
+14	imame	imam	Vmip1pi	_	_	11	acl	11:acl	_	
+15	tuka	tuka	R	_	_	14	advmod	14:advmod	_	
+16	ot	ot	Sg	_	_	17	case	17:case	_	
+17	veka	vek	Nmsgn	_	_	14	obl	14:obl	_	
+# if he will come here, he would release all the people we have from all the ages! 										
+										
+1	a	a	C	_	_	6	cc	6:cc	_	
+2	onъ	on	Pp1-sn	_	_	6	nsubj	6:nsubj	_	
+3	ne	ne	Qz	_	_	4	advmod	4:advmod	_	
+4	e	sъm	Vaip3si	_	_	5	aux	5:aux	_	
+5	bilъ	sъm	Vap--si	Amsnn	_	6	aux	6:aux	_	
+6	imalъ	imam	Vmp--si	Amsnn	_	0	root	0:root	_	
+7	samrъtъ	smъrt	Nfsnn	_	_	6	obj	6:obj	_	
+# but he was not going to have death 										
+										
+1	i	i	C	_	_	4	cc	4:cc	_	
+2	koja	koi	Pq---n	_	_	3	amod	3:amod	_	
+3	siromašija	siromašija	Nfsnn	_	_	4	obj	4:obj	_	
+4	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+5	na	na	Sa	_	_	6	case	6:case	_	
+6	tebe	ti	Pp2-sg	_	_	4	obl	4:obl	_	
+# which poverty did you have ( 										
+										
+1	ili	ili	C	_	_	4	cc	4:cc	_	
+2	golota	golota	Nfsnn	_	_	4	obj	4:obj	_	
+3	sramna	sramen	Afsnn	_	_	2	amod	2:amod	_	
+4	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+5	na	na	Sa	_	_	6	case	6:case	_	
+6	tebe	ti	Pp2-sg	_	_	4	obl	4:obl	_	
+# or were you shamefully naked (lit.  										
+										
+1	ti	ti	Pp2-sn	_	_	4	nsubj	4:nsubj	_	
+2	judo	juda	Nfsvy	_	_	4	vocative	4:vocative	_	
+3	nali	nali	Qq	_	_	4	advmod	4:advmod	_	
+4	noseše	nosja	Vmii3si	_	_	0	root	0:root	_	
+5	na	na	Sa	_	_	8	case	8:case	_	
+6	svi	sve	Ampnn	_	_	8	amod	8:amod	_	
+7	te	tъ	Pd-mpn	_	_	6	det	6:det	_	
+8	apli	apostol	Nmpny	_	_	9	nmod	9:nmod	_	
+9	dobro	dobro	Nnsnn	_	_	4	obj	4:obj	_	
+10	to	tъ	Pd-nsn	_	_	9	det	9:det	_	
+11	koi	koi	Pq---n	_	_	13	mark	13:mark	_	
+12	što	što	Pq	_	_	13	obj	13:obj	_	
+13	imaše	imam	Vmii3si	_	_	9	acl	9:acl	_	
+# did you, o Judas, not carry the goods of all the apostles, whatever they had? 										
+										
+1	o	o (2)	Sl	_	_	6	discourse	6:discourse	_	
+2	koliko	kolko	Pq	_	_	3	amod	3:amod	_	
+3	mltъ	milost	Nfsnn	_	_	6	obj	6:obj	_	
+4	i	i	C	_	_	5	cc	5:cc	_	
+5	ljubovъ	ljubov	Nfsnn	_	_	3	conj	3:conj	_	
+6	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+7	iosifъ	Iosif	Nmsny	_	_	6	nsubj	6:nsubj	_	
+8	za	za	Sa	_	_	9	case	9:case	_	
+9	gda	Gospod	Nmsgy	_	_	6	obl	6:obl	_	
+10	bga	bog	Nmsgy	_	_	9	appos	9:appos	_	
+11	i	i	C	_	_	12	cc	12:cc	_	
+12	spa	spasitel	Nmsgy	_	_	9	conj	9:conj	_	
+13	našego	naš	Amsgy	_	_	12	amod	12:amod	_	
+14	iisa	Isus	Nmsgy	_	_	9	appos	9:appos	_	
+15	xrta	Xristos	Nmsgy	_	_	14	appos	14:appos	_	
+# [Title] how much mercy and love had Joseph for Jesus Christ, our Lord, God and Savior 										
+										
+1	a	a	C	_	_	7	cc	7:cc	_	
+2	sega	sega	R	_	_	7	advmod	7:advmod	_	
+3	ot	ot	Sg	_	_	4	case	4:case	_	
+4	nigde	nigde	Pz	_	_	7	obl	7:obl	_	
+5	pomoštъ	pomošt	Nfsnn	_	_	7	obj	7:obj	_	
+6	ne	ne	Qz	_	_	7	advmod	7:advmod	_	
+7	mam	imam	Vmip1si	_	_	0	root	0:root	_	
+# but now, I have no help 										
+										
+1	a	a	C	_	_	7	cc	7:cc	_	
+2	sega	sega	R	_	_	7	advmod	7:advmod	_	
+3	ljuta	ljut	Afsnn	_	_	4	amod	4:amod	_	
+4	bolestъ	bolest	Nfsnn	_	_	7	obj	7:obj	_	
+5	na	na	Sl	_	_	6	case	6:case	_	
+6	sebe	se	Px---g	_	_	7	obl	7:obl	_	
+7	imamъ	imam	Vmip1si	_	_	0	root	0:root	_	
+8	snu	sin	Nmsdy	Nmsvy	_	7	vocative	7:vocative	_	
+9	moi	moi	Amsny	_	_	8	amod	8:amod	_	
+# but now I have a fierce pain on myself, o my son 										
+										
+1	zašto	zašto	C	_	_	3	cc	3:cc	_	
+2	mi	az	Pp1-sd	_	_	3	obl	3:obl	_	
+3	reče	reka	Vmia3se	_	_	0	root	0:root	_	
+4	če	če	C	_	_	7	cc	7:cc	_	
+5	štemъ	šta	Vaip1si	_	_	7	aux	7:aux	_	
+6	da	da	C	_	_	5	fixed	5:fixed	_	
+7	ima	imam	Vmip3si	Vmn---i	_	3	advcl	3:advcl	_	
+8	radosъ	radost	Nfsnn	_	_	7	obj	7:obj	_	
+9	do	do	Sg	_	_	10	case	10:case	_	
+10	veka	vek	Nmsgn	_	_	7	obl	7:obl	_	
+# because he told me, that I will rejoice forever 										
+										
+1	i	i	C	_	_	10	cc	10:cc	_	
+2	tvoe	tvoi	Ansny	_	_	3	amod	3:amod	_	
+3	crtvo	carstvo	Nnsnn	_	_	10	nsubj	10:nsubj	_	
+4	konecъ	konec	Nmsnn	_	_	10	obj	10:obj	_	
+5	i	i	C	_	_	6	cc	6:cc	_	
+6	krai	krai	Nmsnn	_	_	4	conj	4:conj	_	
+7	ne	ne	Qz	_	_	8	advmod	8:advmod	_	
+8	šte	šta	Vaip3si	_	_	10	aux	10:aux	_	
+9	da	da	C	_	_	8	fixed	8:fixed	_	
+10	ima	imam	Vmip3si	_	_	0	root	0:root	_	
+# and that 'your kingdom shall have no end' 										
+										
+1	i	i	C	_	_	15	cc	15:cc	_	
+2	da	da	C	_	_	4	mark	4:mark	_	
+3	bixъ	bъda	Vao-1se	_	_	4	aux	4:aux	_	
+4	imala	imam	Vmp--si	Afsnn	_	15	advcl	15:advcl	_	
+5	kladenecъ	kladenec	Nmsnn	_	_	4	obj	4:obj	_	
+6	ta	ta	C	_	_	15	cc	15:cc	_	
+7	bix	bъda	Vao-1se	_	_	15	aux	15:aux	_	
+8	go	toi	Pp3msa	_	_	15	obj	15:obj	_	
+9	izъ	iz	Sg	_	_	10	case	10:case	_	
+10	oči	oko	Nndnn	_	_	15	obl	15:obl	_	
+11	te	tъ	Pd--pn	_	_	10	det	10:det	_	
+12	moi	moi	A-pnn	_	_	10	amod	10:amod	_	
+13	sasъ	s	Si	_	_	14	case	14:case	_	
+14	slъzi	sъlza	Nfpnn	_	_	15	obl	15:obl	_	
+15	naplъnila	napъlnja	Vmp--se	Afsnn	_	0	root	0:root	_	
+# and if I had a well, I would fill it with tears from my eyes 										
+										
+1	i	i	C	_	_	6	cc	6:cc	_	
+2	tamo	tam	R	_	_	6	advmod	6:advmod	_	
+3	u	u	Sg	_	_	5	case	5:case	_	
+4	onja	onja	Pd-msn	_	_	5	det	5:det	_	
+5	gradъ	grad	Nmsnn	_	_	6	obl	6:obl	_	
+6	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+7	edinъ	edin	Amsnn	_	_	8	amod	8:amod	_	
+8	ezerъ	ezer	Nmsnn	_	_	6	obj	6:obj	_	
+9	strašenъ	strašen	Amsnn	_	_	8	amod	8:amod	_	
+10	i	i	C	_	_	11	cc	11:cc	_	
+11	dlъbokъ	dъlbok	Amsnn	_	_	9	conj	9:conj	_	
+# and in that city was a terrible and deep lake 										
+										
+1	a	a	C	_	_	7	cc	7:cc	_	
+2	onъ	on	Pp3msn	_	_	7	nsubj	7:nsubj	_	
+3	siromaxъ	siromax	Nmsny	_	_	2	appos	2:appos	_	
+4	toko	toko	R	_	_	5	amod	5:amod	_	
+5	ednu	edin	Afsan	_	_	6	amod	6:amod	_	
+6	dšterъku	dъšterka	Nfsay	_	_	7	obj	7:obj	_	
+7	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+# and the poor fellow had only one daughter 										
+										
+1	drugo	drug	Ansnn	_	_	2	amod	2:amod	_	
+2	čedo	čedo	Nnsny	_	_	5	obj	5:obj	_	
+3	nikakvo	nikakъv	Ansnn	_	_	2	amod	2:amod	_	
+4	ne	ne	Qz	_	_	5	advmod	5:advmod	_	
+5	maše	imam	Vmii3si	_	_	0	root	0:root	_	
+# he had no other child 										
+										
+1	i	i	C	_	_	3	cc	3:cc	_	
+2	ne	ne	Qz	_	_	3	advmod	3:advmod	_	
+3	ma	imam	Vmip3si	_	_	0	root	0:root	_	
+4	što	što	Pq	_	_	3	obj	3:obj	_	
+5	da	da	C	_	_	6	mark	6:mark	_	
+6	stori	storja	Vmip3se	_	_	3	advcl	3:advcl	_	
+# and he could not do anything  										
+										
+1	zašto	zašto	C	_	_	5	cc	5:cc	_	
+2	ne	ne	Qz	_	_	5	advmod	5:advmod	_	
+3	šte	šta	Vaip3si	_	_	5	aux	5:aux	_	
+4	da	da	C	_	_	3	fixed	3:fixed	_	
+5	ima	imam	Vmip3si	_	_	0	root	0:root	_	
+6	taja	toja	Pd-fsn	_	_	7	det	7:det	_	
+7	godina	godina	Nfsnn	_	_	5	obl	5:obl	_	
+8	beriketъ	bereket	N-snn	_	_	5	obj	5:obj	_	
+9	na	na	Sl	_	_	10	case	10:case	_	
+10	zemlju	zemlja	Nfsan	_	_	5	obl	5:obl	_	
+# because it will not be a fertile year on the Earth 										
+										
+1	ako	ako	C	_	_	4	mark	4:mark	_	
+2	li	li	Qq	_	_	4	advmod	4:advmod	_	
+3	bude	bъda	Vaip3se	_	_	4	aux	4:aux	_	
+4	pružena	pruža	Vmpa-si	Afsnn	_	10	advcl	10:advcl	_	
+5	golema	golěm	Afsnn	_	_	6	amod	6:amod	_	
+6	radost	radost	Nfsnn	_	_	10	obj	10:obj	_	
+7	i	i	C	_	_	8	cc	8:cc	_	
+8	veselie	veselie	Nnsnn	_	_	6	conj	6:conj	_	
+9	imajut	imam	Vmip3pi	_	_	0	root	0:root	_	
+# if it will be straight, they have a great joy and happiness 										
+										
+1	ne	ne	Qz	_	_	2	advmod	2:advmod	_	
+2	maxu	imam	Vmii3pi	_	_	0	root	0:root	_	
+3	ni	ni	C	_	_	4	cc	4:cc	_	
+4	srebro	srebro	Nnsnn	_	_	2	obj	2:obj	_	
+5	ni	ni	C	_	_	6	cc	6:cc	_	
+6	zlato	zlato	Nnsnn	_	_	4	conj	4:conj	_	
+# they had neither silver, nor gold 										
+										
+1	i	i	C	_	_	8	cc	8:cc	_	
+2	ni	ni	Qz	_	_	5	amod	5:amod	_	
+3	za	za	Sa	_	_	5	case	5:case	_	
+4	ednu	edin	Afsan	_	_	5	det	5:det	_	
+5	pečalbu	pečalba	Nfsan	_	_	7	nmod	7:nmod	_	
+6	mirsku	mirski	Afsan	_	_	5	amod	5:amod	_	
+7	pomišlъ	pomisъl	Nfsnn	_	_	8	obj	8:obj	_	
+8	imaše	imam	Vmii3si	_	_	0	root	0:root	_	
+# and she had no thought of any worldly gain 										
+										
+1	ako	ako	C	_	_	5	mark	5:mark	_	
+2	li	li	Qq	_	_	1	fixed	1:fixed	_	
+3	tova	tova	Pd-nsn	_	_	5	obj	5:obj	_	
+4	ne	ne	Qz	_	_	5	advmod	5:advmod	_	
+5	sotvorišъ	sъtvorja	Vmip2se	_	_	8	advcl	8:advcl	_	
+6	po	po	Sd	_	_	7	case	7:case	_	
+7	istinu	istina	Nfsan	_	_	8	obl	8:obl	_	
+8	poznavai	poznaja	Vmm-2se	_	_	0	root	0:root	_	
+9	če	če	C	_	_	15	mark	15:mark	_	
+10	ot	ot	Sg	_	_	11	case	11:case	_	
+11	ognъ	ogъn	Nmsnn	_	_	15	obl	15:obl	_	
+12	ot	ot	Sg	_	_	13	case	13:case	_	
+13	boga	bog	Nmsgy	_	_	11	nmod	11:nmod	_	
+14	imate	imam	Vaip2pi	_	_	15	aux	15:aux	_	
+15	pogibnuti	pogibnǫti	Vmn---e	_	_	8	advcl	8:advcl	_	
+# if you won't do this, be sure that you'll have to perish in the God's fire 										
+										
